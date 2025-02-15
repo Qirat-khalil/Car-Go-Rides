@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-icon4{
+    font-size: 45px;
+}
+
+.form-sec{
+    background-color: brown;
+}
+.sec-butt{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+   
+}
+
+.con-card{
+    background-color: #352f5b;
+    color: white;  
+    box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; 
+}
+
+.con-card:hover{
+    transform: translateY(-10px);
+}
+
+.contact-sec{
+    background-color: #231c38;
+    color: white;
+
+}
+
+.inp1{
+    background-color: #352f5b;
+    color: white;
+    box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; 
+}
+.con-head2{
+    text-decoration: 3px solid #FF8101 underline;
+}

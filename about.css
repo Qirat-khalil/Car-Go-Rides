@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .nav-icon {
+    font-size: 15px;
+}
+.nav-butt{
+    background-color: rgb(255, 238, 0);
+    border-radius: 50px;
+} */
+
+
+
+.main-sec{
+    background-color: #231c38;
+     color: white;
+}
+
+.ab-head{
+    color: white;
+    text-decoration: 3px solid #FF8101 underline;
+}
+
+.nav-butt2{
+    background-color: #352f5b;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; 
+}
+
+.nav-butt2:hover{
+    border: 2px solid white;
+}
+
+.car-img{
+    /* background-color: brown; */
+    padding: 25px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    height: 430px;
+
+}
+
+.car-img img{
+    /* width: 650px; */
+    width: 100%;
+   
+}
+
+
+
+/* .icons{
+    background-color: #332D58;
+    
+} */
+
+.icons img{
+    background-color: #564c91;
+    color: white;
+    box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; 
+    border-radius: 50%;
+    padding: 25px;
+    border: 2px solid rgb(20, 19, 19);
+}
+
+.icons img:hover{
+    border: 2px solid rgb(252, 248, 248);
+}
+
+.card-text1{
+    background-color: #352f5b;
+    color: white;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.card1{
+    background-color: #352f5b;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; 
+}
+.card2{
+    background-color: #352f5b;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; 
+}
+
+@media (max-width:769px){
+    .car-img {
+        display: none;
+        /* visibility: hidden; */
+    }
+}
+
+
+
+
+
+
+
+
+        /* box-shadow: 0 0 10px #FF1E53, 0 0 10px #FF8101, 0 0 15px #6720FF; */
